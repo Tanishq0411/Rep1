@@ -1,1 +1,1 @@
-# Rep1
+This is a very basic quiz game which simply puts multiple choice questions in front of the user and provides 4 options for each question. If no option is selected by user it is counted as a wrong answer at at the end of the quiz the score is displayed. Currently itt is very basic and lacks many functionalities like going to next\ previous questions and has a lot of scope for further additions of many features.
